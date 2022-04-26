@@ -1,0 +1,10 @@
+ssh root@104.236.38.68
+9cc1f190c7a176f793043382e8rkoKjs
+
+//install nginx
+sudo apt update
+sudo apt install nginx
+sudo service nginx restart
+
+
+//upload default

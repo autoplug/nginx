@@ -1,0 +1,19 @@
+{
+    "editor.parameterHints.enabled": false,
+    "editor.formatOnType": false,
+    "http.proxyStrictSSL": true,
+    "http.proxySupport": "on",
+    "http.systemCertificates": true,
+    "telemetry.enableCrashReporter": false,
+    "terminal.integrated.shell.osx": "",
+    "compile-hero.generate-minified-css": true,
+    "compile-hero.generate-minified-html": true,
+    "compile-hero.generate-minified-javascript": true,
+    "compile-hero.disable-compile-files-on-did-save-code": true,
+    "json.format.enable": false,
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        //   "editor.formatOnSave": true,
+    }
+}
